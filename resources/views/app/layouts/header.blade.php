@@ -42,38 +42,18 @@
 												<!--end::Menu link-->
 											</div>
 											<!--end::Menu item-->
-											<!--begin::Menu item-->
-											<div class="menu-item">
-												<!--begin::Menu link-->
-												<a class="menu-link nav-link py-3 px-4 px-xxl-6" href="#how-it-works" data-kt-scroll-toggle="true" data-kt-drawer-dismiss="true">How it Works</a>
-												<!--end::Menu link-->
-											</div>
-											<!--end::Menu item-->
-											<!--begin::Menu item-->
-											<div class="menu-item">
-												<!--begin::Menu link-->
-												<a class="menu-link nav-link py-3 px-4 px-xxl-6" href="#achievements" data-kt-scroll-toggle="true" data-kt-drawer-dismiss="true">Achievements</a>
-												<!--end::Menu link-->
-											</div>
-											<!--end::Menu item-->
-											<!--begin::Menu item-->
-											<div class="menu-item">
-												<!--begin::Menu link-->
-												<a class="menu-link nav-link py-3 px-4 px-xxl-6" href="#team" data-kt-scroll-toggle="true" data-kt-drawer-dismiss="true">Team</a>
-												<!--end::Menu link-->
-											</div>
-											<!--end::Menu item-->
-											<!--begin::Menu item-->
-											<div class="menu-item">
-												<!--begin::Menu link-->
-												<a class="menu-link nav-link py-3 px-4 px-xxl-6" href="#portfolio" data-kt-scroll-toggle="true" data-kt-drawer-dismiss="true">Portfolio</a>
-												<!--end::Menu link-->
-											</div>
-											<!--end::Menu item-->
+                                            
 											<!--begin::Menu item-->
 											<div class="menu-item">
 												<!--begin::Menu link-->
 												<a class="menu-link nav-link py-3 px-4 px-xxl-6" href="#pricing" data-kt-scroll-toggle="true" data-kt-drawer-dismiss="true">Pricing</a>
+												<!--end::Menu link-->
+											</div>
+											<!--end::Menu item-->
+											<!--begin::Menu item-->
+											<div class="menu-item">
+												<!--begin::Menu link-->
+												<a class="menu-link nav-link py-3 px-4 px-xxl-6" href="#team" data-kt-scroll-toggle="true" data-kt-drawer-dismiss="true">Contact</a>
 												<!--end::Menu link-->
 											</div>
 											<!--end::Menu item-->
@@ -83,9 +63,9 @@
 								</div>
 								<!--end::Menu wrapper-->
 								<!--begin::Toolbar-->
-								<div class="flex-equal text-end ms-1">
+								<!-- <div class="flex-equal text-end ms-1">
 									<a href="../../demo1/dist/authentication/layouts/basic/sign-in.html" class="btn btn-success">Sign In</a>
-								</div>
+								</div> -->
 								<!--end::Toolbar-->
 							</div>
 							<!--end::Wrapper-->
@@ -98,14 +78,14 @@
 						<!--begin::Heading-->
 						<div class="text-center mb-5 mb-lg-10 py-10 py-lg-20">
 							<!--begin::Title-->
-							<h1 class="text-white lh-base fw-bold fs-2x fs-lg-3x mb-15">Build An Outstanding Solutions
-							<br />with
+							<h1 class="text-white lh-base fw-bold fs-2x fs-lg-3x mb-15">Jalan Lurus Jadi
+							<br />Programmer
 							<span style="background: linear-gradient(to right, #12CE5D 0%, #FFD80C 100%);-webkit-background-clip: text;-webkit-text-fill-color: transparent;">
-								<span id="kt_landing_hero_text">The Best Theme Ever</span>
+								<span id="kt_landing_hero_text">Jaman Now</span>
 							</span></h1>
 							<!--end::Title-->
 							<!--begin::Action-->
-							<a href="../../demo1/dist/index.html" class="btn btn-primary">Try Metronic</a>
+							<a href="https://www.dcc-dp.com/private-class" class="btn btn-primary">Gabung Program</a>
 							<!--end::Action-->
 						</div>
 						<!--end::Heading-->

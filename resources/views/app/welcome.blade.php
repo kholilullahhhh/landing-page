@@ -111,23 +111,28 @@
                 data-tns-prev-button="#kt_team_slider_prev1" data-tns-next-button="#kt_team_slider_next1">
                 <!--begin::Item-->
                 <div class="text-center px-5 pt-5 pt-lg-10 px-lg-10">
-                    <img src="{{asset('demo/dist/assets/media/product-demos/demo1.png')}}" class="card-rounded shadow mw-100" alt="" />
+                    <img src="{{asset('demo/dist/assets/media/product-demos/demo1.jpg')}}" class="card-rounded shadow mw-100" alt="" />
                 </div>
                 <!--end::Item-->
                 <!--begin::Item-->
                 <div class="text-center px-5 pt-5 pt-lg-10 px-lg-10">
-                    <img src="{{asset('demo/dist/assets/media/product-demos/demo2.png')}}" class="card-rounded shadow mw-100" alt="" />
+                    <img src="{{asset('demo/dist/assets/media/product-demos/demo2.jpg')}}" class="card-rounded shadow mw-100" alt="" />
                 </div>
                 <!--end::Item-->
                 <!--begin::Item-->
                 <div class="text-center px-5 pt-5 pt-lg-10 px-lg-10">
-                    <img src="{{asset('demo/dist/assets/media/product-demos/demo4.png')}}" class="card-rounded shadow mw-100" alt="" />
+                    <img src="{{asset('demo/dist/assets/media/product-demos/demo3.jpg')}}" class="card-rounded shadow mw-100" alt="" />
                 </div>
                 <!--end::Item-->
                 <!--begin::Item-->
-                <div class="text-center px-5 pt-5 pt-lg-10 px-lg-10">
-                    <img src="assets/media/product-demos/demo5.png" class="card-rounded shadow mw-100" alt="" />
-                </div>
+                <!-- <div class="text-center px-5 pt-5 pt-lg-10 px-lg-10">
+                    <img src="{{asset('demo/dist/assets/media/product-demos/demo3.jgp')}}" class="card-rounded shadow mw-100" alt="" />
+                </div> -->
+                <!--end::Item-->
+                <!--begin::Item-->
+                <!-- <div class="text-center px-5 pt-5 pt-lg-10 px-lg-10">
+                    <img src="{{asset('demo/dist/assets/media/product-demos/demo3.jgp')}}" class="card-rounded shadow mw-100" alt="" />
+                </div> -->
                 <!--end::Item-->
             </div>
             <!--end::Slider-->

@@ -21,6 +21,7 @@
 <!--begin::Custom Javascript(used for this page only)-->
 <script src="{{ asset('demo/dist/assets/js/custom/apps/user-management/users/list/table.js') }}"></script>
 <script src="{{ asset('/') }}twbs-pagination/jquery.twbsPagination.min.js"></script>
+<script src="https://app.sandbox.midtrans.com/snap/snap.js" data-client-key="{{env('MIDTRANS_CLIENT_KEY')}}"></script>
 
 <!--end::Custom Javascript-->
 <!--end::Javascript-->

@@ -13,6 +13,15 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-Route::get('/', function () {
-    return view('app.welcome');
-});
+Route::get('/', 'App\Http\Controllers\MateriController@index')->name('index.materi');
+
+Route::get('form/{id}', 'App\Http\Controllers\PendaftarController@create')->name('form.pendaftar');
+Route::post('private-class', 'App\Http\Controllers\PendaftarController@store')->name('store.pendaftar');
+Route::get('invoice/{id}', 'App\Http\Controllers\PendaftarController@invoice')->name('invoice');
+
+
+// Route::get('/form', function () {
+//     return view('form');
+// });
+
+

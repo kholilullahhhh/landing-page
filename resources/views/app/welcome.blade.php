@@ -124,16 +124,6 @@
                     <img src="{{asset('demo/dist/assets/media/product-demos/demo3.jpg')}}" class="card-rounded shadow mw-100" alt="" />
                 </div>
                 <!--end::Item-->
-                <!--begin::Item-->
-                <!-- <div class="text-center px-5 pt-5 pt-lg-10 px-lg-10">
-                    <img src="{{asset('demo/dist/assets/media/product-demos/demo3.jgp')}}" class="card-rounded shadow mw-100" alt="" />
-                </div> -->
-                <!--end::Item-->
-                <!--begin::Item-->
-                <!-- <div class="text-center px-5 pt-5 pt-lg-10 px-lg-10">
-                    <img src="{{asset('demo/dist/assets/media/product-demos/demo3.jgp')}}" class="card-rounded shadow mw-100" alt="" />
-                </div> -->
-                <!--end::Item-->
             </div>
             <!--end::Slider-->
             <!--begin::Slider button-->
